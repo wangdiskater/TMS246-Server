@@ -12,7 +12,7 @@
         </property>
 
         <property name = "hibernate.connection.url">
-            jdbc:mariadb://127.0.0.1:3307/ms
+            jdbc:mariadb://127.0.0.1:3306/ms
         </property>
 
         <property name = "hibernate.connection.username">
@@ -20,7 +20,7 @@
         </property>
 
         <property name = "hibernate.connection.password">
-
+            123456
         </property>
 
         <property name="hibernate.enable_lazy_load_no_trans">
